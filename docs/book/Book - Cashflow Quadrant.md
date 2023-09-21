@@ -2,16 +2,11 @@
 type: book
 startDate: 
 endDate: 
-name:
-  "{ Book Name }": 
 author: 
 share: "true"
 ---
 
-# Book - {{Book Name}}
-
-{image link}
-
+# Book - Cash Flow Quadrant
 ```toc
 ```
 
