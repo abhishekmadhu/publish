@@ -5,7 +5,6 @@ Details: Automate processes for every app, experience, and portal with declarati
 Has Exam Weight?: true
 Points: 1600
 Status: Done
-tags: 
 Timeline: April 12, 2021
 Trailhead URL: https://trailhead.salesforce.com/content/learn/modules/business_process_automation?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-platform-developer-i-credential
 share: "true"
@@ -75,6 +74,6 @@ Only flow admins (users with the Manage Flow user permission) can run inactive f
 | Notify managers when an opportunity discount needs approval | Email template |
 | When managers respond, update the opportunity’s approval status | Approval actions (Field Update) |
 
-#todo -
+#todo
 
 - [x]  finish the suggested stuff at the end and read the tell me more
