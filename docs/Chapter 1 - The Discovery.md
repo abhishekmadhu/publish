@@ -1,8 +1,9 @@
 ---
 share: "true"
+tags:
+  - writing
+  - fiction
 ---
-#writing #fiction 
-
 _“No one forgets how it began. No one really knows how it began either. All that the sisters of the Orden Galáctica know is what they read on the first day of their convent”_
 
 Rachel frowned at the screen, and said, “What is that? I don’t think I have seen that before.”
@@ -23,3 +24,5 @@ No one knew how to respond to this. No one knew for certain what this was or wha
 
 Rachel broke the first word.
 Rachel: Where did that come from? I do not remember seeing that before. Check for yesterday’s modeling of the region.
+
+Jack shuffled through his screen, trying to get a hold of it. 
