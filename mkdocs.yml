@@ -16,11 +16,11 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
+      primary: indigo
       accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Embrace the dark
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -29,12 +29,13 @@ theme:
       accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Go towards the light
     features:
         - navigation.indexes
         - navigation.top
         - navigation.tabs
         - navigation.tabs.sticky
+        - navigation.sections
         - navigation.expand
         - search.suggest
         - search.highlight
