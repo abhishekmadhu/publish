@@ -74,6 +74,6 @@ Only flow admins (users with the Manage Flow user permission) can run inactive f
 | Notify managers when an opportunity discount needs approval                  | Email template                  |
 | When managers respond, update the opportunity’s approval status              | Approval actions (Field Update) |
 
-#todo -
+#todo
 
 - [x]  finish the suggested stuff at the end and read the tell me more
