@@ -4,7 +4,7 @@ share: "true"
 
 #permanent #programming 
 
-- [[NodeJS|Nodejs]] (and [[Javascript|Javascript]] in general) is [[asynchronous|asynchronous]].
+- [[NodeJS|NodeJS]] (and [[Javascript|Javascript]] in general) is [[asynchronous|asynchronous]].
 
 - At the back end, we control most of the flow, their order, and the sequence. A synchronous-by-default language is more useful for [[server-side programming|server-side programming]]. 
 
