@@ -2,7 +2,8 @@
 share: "true"
 ---
 
-[[typescript|TypeScript]] is a shitty thing to work with in case you are working with [[NodeJS|NodeJS]].
+
+[[typescript|TypeScript]] is a shitty thing to work with in case you are working with [[../../../general/NodeJS|NodeJS]].
 [[Typescript is shit for nodejs|Typescript is shit for nodejs]]
 Here are a few reasons why:
 1. The compilation is shitty and time taking. 
