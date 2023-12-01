@@ -10,13 +10,13 @@ We make the result (`y`) boolean (yes/no, or 1 or 0), and then see if the model 
 $\hat{y} = P(y=1|x)$ where $\hat{y}$ is the probability that y = 1 given feature vector x. 
 where $x \in \mathbb{R}^{n_{x}}$
 
-Parameters $w \in \mathbb{R}^{n_{x}}, b \in \mathbb{R}$ - w in an nx dimentional vector in real numbers. 
+Parameters $w \in \mathbb{R}^{n_{x}}, b \in \mathbb{R}$ - w in an $n_{x}$ dimensional vector of real numbers $\in \mathbb{R}$ 
 
 Output for linear regression: $\hat{y} = w^{T_{x}} + b$
 Logistic Regression - 
 Predicted class, $\hat{y} = \sigma({w^{T_{x}} + b})$
 
-![[Logistic Regression 2023-12-01 16.16.33.excalidraw|Logistic Regression 2023-12-01 16.16.33.excalidraw]]
+![[../../../../../Logistic Regression 2023-12-01 16.16.33.excalidraw.svg|Logistic Regression 2023-12-01 16.16.33.excalidraw.svg]]
 Here, we use the sigmoid function - $\sigma$
 $$
 \sigma(z) = \frac{1}{1 + e^{-z}}
@@ -45,5 +45,8 @@ For this, we want to have $y \in [0,1]$ as the loss function "pushes" the result
 [[Cost Function|Cost Function]] - for entire training sample. 
 $$J(w,b) = \frac{1}{m} \sum_{i=1}^{m}{L(\hat{y}_{i}, y_{i})}$$
 $$= -\frac{1}{m} \sum_{i=1}^{m} [y_{i} \log{\hat{y}_{i}} + (1-\hat{y}_{i} \log{(1-\hat{y}_{i})})]$$
-We will try to minimize the cost. 
+Remember that $m$ is the size of the training dataset. 
+
+> We will try to minimize the cost. 
+
 
