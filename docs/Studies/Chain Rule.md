@@ -3,7 +3,7 @@ share: "true"
 ---
 
 
-![[./A representation of Chain Rule from Deep Learning from Scratch - Pasted image 20231203184705.png|A representation of Chain Rule from Deep Learning from Scratch - Pasted image 20231203184705]]
+![[../A representation of Chain Rule from Deep Learning from Scratch - Pasted image 20231203184705.png|A representation of Chain Rule from Deep Learning from Scratch - Pasted image 20231203184705.png]] (Image source: Deep Learning from Scratch by Seth Weidman)
 
 Assume two functions $f_{1}(u) \text{ and } f_{2}(u)$. 
 Consider the composite function $f(u) = f_{2}(f_{1}(u))$. 
