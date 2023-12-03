@@ -2,6 +2,7 @@
 share: "true"
 ---
 
+
 ```toc
 ```
 
@@ -57,7 +58,7 @@ In the `Schedulable` , write the whole call logic in one line, otherwise it will
 // RIGHT, BUT WILL NOT PASS THE TEST FOR SOME REASON
 WarehouseCalloutService wcs = new WarehouseCalloutService();
 System.debug('Enqueueing WarehouseCalloutService');
-System.enqueueJob();
+System.enqueueJob(wcs);
 System.debug('Enqueued WarehouseCalloutService');
 
 // WILL PASS THE TEST
