@@ -11,13 +11,17 @@ You might like:
 My Videos: 
 - Playlist - [Programming for beginners](https://www.youtube.com/playlist?list=PLsYYKno-jo0J0xP1sNZeYC4Zn-Qg2H-pM)
 
-My Book Highlights:
+My Book Highlights and notes:
+- [[Book - Critical Chain|Book - Critical Chain]]
 - [[./highlights/Atomic Habits|Atomic Habits]]
 - [[./highlights/Harari-Sapiens|Harari-Sapiens]]
 - [[./highlights/Rich Dad Poor Dad|Rich Dad Poor Dad]]
 - [[./highlights/Think and Grow Rich|Think and Grow Rich]]
 - [[./highlights/The 4-Hour Work Week|The 4-Hour Work Week]]
-- [[./highlights/The Intelligent Investor, Rev. Ed|The Intelligent Investor, Rev. Ed]]
+- [[./highlights/The Intelligent Investor - Revised Edition|The Intelligent Investor - Revised Edition]]
 - [[./highlights/The Unfortunate Traveller and Other Works|The Unfortunate Traveller and Other Works]]
 - [[./highlights/Hands-On Deep Learning Algorithms with Python|Hands-On Deep Learning Algorithms with Python]]
-- [[./highlights/Cormen_et_al-Introduction to Algorithms, third edition|Cormen_et_al-Introduction to Algorithms, third edition]]
+- [[./highlights/Introduction to Algorithms|Introduction to Algorithms]]
+- [[./highlights/Salesforce Platform Enterprise Architecture by Fawcett-Peter|Salesforce Platform Enterprise Architecture by Fawcett-Peter]]
+
+Thank you. 

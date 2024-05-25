@@ -10,7 +10,7 @@ tags:
 
 
 ## Schematic Diagram
-![[../../../../../../../Salesforce-Order-Of-Execution-Diagram.png|Salesforce-Order-Of-Execution-Diagram]]
+![[../../../../../../../Salesforce-Order-Of-Execution-Diagram.png|Salesforce-Order-Of-Execution-Diagram.png]]
 ![[../../../../../../../Untitled.png|Untitled]]
 
 Source: ([https://prasannajyothi.medium.com/what-is-the-order-of-execution-in-salesforce-c273f9059f6c](https://prasannajyothi.medium.com/what-is-the-order-of-execution-in-salesforce-c273f9059f6c))

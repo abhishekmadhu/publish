@@ -5,9 +5,10 @@ tags:
   - zettelkasten
 share: "true"
 ---
+
 #permanent #programming 
 
-- class variables in [[python|python]] are shared across all instances. 
+- class variables in [[./Python Programming Language|Python Programming Language]] are shared across all instances. 
 
 If we try to set the class variables with the instances (objects), then a new instance variable is created with the same name, that shadows the class variable. 
 ```python

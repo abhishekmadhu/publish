@@ -9,9 +9,10 @@ kindle-sync:
   highlightsCount: 19
 type: bookHighlight
 startDate: 2023
-endDate: 
+endDate: 2023
 share: "true"
 ---
+
 # Sapiens
 ## Metadata
 * Author: [Yuval Noah Harari](https://www.amazon.comundefined)
