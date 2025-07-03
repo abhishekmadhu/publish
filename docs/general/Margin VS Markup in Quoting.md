@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 **[[Margin in Quoting|Margin]]** and **[[Markup in Quoting|Markup]]** are two different ways of looking at the profit on a sale. They both focus on the same amount of money – the difference between your buying and selling prices. However, <mark style="background: #FFF3A3A6;">they express that amount as a percentage in different ways</mark>.
 
 **Margin Percentage**: Margin refers to the revenue a company makes after paying the cost of goods sold (COGS). The margin percentage is calculated by taking revenue minus the cost of goods sold, and the difference is shown as a percentage of revenue. 
@@ -11,7 +10,8 @@ share: "true"
 For example, if a product sells for `$100` and it costs `$70` to manufacture, its margin is `$30`. The profit margin, stated as a percentage, is `30%`.
 
 **Markup Percentage**: Markup shows how much more a company’s selling price is than the amount the item costs the company. Markup is the retail price for a product minus its cost, but the markup percentage is calculated differently. The formula for markup percentage is:
-$\left( \frac{\text{Selling Price} - \text{Cost}}{\text{Cost}} \right) \times 100$
+![[Markup in Quoting#^7f02c7|Markup in Quoting > ^7f02c7]]
+
 
 Using the same numbers as above, the markup percentage would be `42.9%`.
 
