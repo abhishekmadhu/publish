@@ -1,0 +1,126 @@
+---
+share: "true"
+---
+
+- 500 BCE
+- Some [[undefinedhidden/Janapadas|Janapadas]] became more important than others
+
+Salient features:
+- most had a "capital city"
+	- generally fortified with walls of wood, brick, or stone
+
+
+## Important Mahajanapadas
+Different texts refer to different list of 16 great [[Mahajanapadas|Mahajanapadas]]. 
+
+The Buddhist text [[Anguttara Nikaya|Anguttara Nikaya]], at several places, gives a list of sixteen great nations:
+- [[Anga|Anga]]
+	- First reference found in [[Atharvaveda|Atharvaveda]]
+	- [[Anga|Anga]] was annexed by [[undefinedhidden/Magadha|Magadha]] in the time of [[undefinedhidden/Bimbisara|Bimbisara]].
+- Assaka (or [[Asmaka|Asmaka]])
+	- present-day Andhra Pradesh, Telangana, and Maharashtra
+	- Banks of [[undefinedhidden/River Godavari|River Godavari]], south of the [[Vindyas Mountains|Vindyas Mountains]] 
+	  ![[undefinedhidden/River Godavari#^053d78|River Godavari > ^053d78]]
+	- Capital was Potana / Potali 
+	- Located on [[Dakshinapatha|Dakshinapatha]] 
+- [[Avanti|Avanti]]
+	- One of the four great monarchies of India
+	- Present day Malwa, Nimar, and parts of [[Madhya Pradesh|Madhya Pradesh]] 
+	- [[Narmada River|Narmada River]] divided Avanti into North and South
+		- [[Mahishamati|Mahishamati]] was capital of North [[Avanti|Avanti]]
+		- [[undefinedhidden/Ujjaini|Ujjaini]] was capital of South [[Avanti|Avanti]] 
+		- At times of [[undefinedhidden/Buddha|Buddha]] and [[undefinedhidden/Mahavira|Mahavira]], it was united, and the capital was [[undefinedhidden/Ujjaini|Ujjaini]] 
+	- Strategic location 
+		- Was located on the [[Dakshinapatha|Dakshinapatha]], a trade route from Rajgir (Bihar) to Paithan (Maharashtra)
+- [[Chedi|Chedi]]
+	- Capital was [[Suktimati|Suktimati]] (location unconfirmed)
+	- Two settlements
+		- Mountains of [[Nepal|Nepal]]
+		- [[Bundelkhand|Bundelkhand]] near [[undefinedhidden/Kausambi|Kausambi]]
+	- Near [[Yamuna River|Yamuna River]], between the [[Kuru|Kuru]] and the [[Vatsa|Vatsa]] [[Mahajanapadas|Mahajanapadas]] 
+- [[Gandhara|Gandhara]]
+	- Wool mentioned in [[undefinedhidden/Rigveda|Rigveda]]
+	- Noted strong allies of [[Kuru|Kuru]] against [[Pandavas|Pandavas]] in [[Mahabharata|Mahabharata]]
+	- Located in the [[undefinedhidden/Indus River#The Indus River Valley|Indus River valley]]
+	- Located on [[Uttarpatha|Uttarpatha]]
+	- Important Cities:
+		- [[undefinedhidden/Takshashila|Takshashila]] - [[undefinedhidden/Takshashila|Taxila]] 
+		- [[Pushkalavati|Pushkalavati]]
+		- [[Purushapura|Purushapura]] (Peshawar) - according to Hecataeus of Miletus
+	- King Pukkusati was contemporary of [[undefinedhidden/Bimbisara|Bimbisara]] - Middle of 6th Century BCE
+- [[Kashi|Kashi]] 
+	- Capital was [[Varanasi|Varanasi]]
+	- [[Varuna River|Varuna River]] in the north, and [[Asi River|Asi River]] in the source
+	- Struggle for supremacy with fellow [[Mahajanapadas|Mahajanapadas]] 
+		- [[Kosala|Kosala]]
+		- [[Anga|Anga]]
+		- [[undefinedhidden/Magadha|Magadha]]
+	- Most powerful of the sixteen [[Mahajanapadas|Mahajanapadas]] before the time of [[undefinedhidden/Buddha|Buddha]] 
+		- [[King Brihadratha|King Brihadratha]] conquered [[Kosala|Kosala]] 
+		- Later [[King Kansa|King Kansa]] [[Kashi|Kashi]] was incorporated into [[Kosala|Kosala]] during the time of [[undefinedhidden/Buddha|Buddha]]
+- [[Kamboja|Kamboja]]
+	- Located on both sides of the [[Hindukush Mountains|Hindukush Mountains]]
+	- Located on [[Uttarpatha|Uttarpatha]] 
+	- Mentioned in [[Edicts of Ashoka|Edicts of Ashoka]]
+	- Republican (mentioned in [[Arthashastra|Arthashastra]] of [[undefinedhidden/Kautilya|Kautilya]])
+	- [[Cyrus I|Cyrus I]] apparently dismantled the [[Kamboja|Kamboja]] Mahajanapada into a satrapy of the [[Achaemenid Empire|Achaemenid Empire]], combined with [[Gandhara|Gandhara]].  
+- [[Kosala|Kosala]]
+	- Located around modern Awadh in Central and Eastern [[Uttar Pradesh|Uttar Pradesh]]
+	- Capital was [[Ayodhya|Ayodhya]]
+	- Important Cities:
+		- [[Ayodhya|Ayodhya]] 
+		- [[Saketa|Saketa]]
+		- [[Banaras|Banaras]]
+	- Notable Kings
+		- [[undefinedhidden/King Prasenajit|King Prasenajit]] (highly educated)
+		- [[King Virudhaka|King Virudhaka]] (son of [[undefinedhidden/King Prasenajit|King Prasenajit]])
+	- There was conflict between [[undefinedhidden/King Prasenajit|King Prasenajit]] and [[undefinedhidden/Ajatasattu|Ajatasattu]] of [[undefinedhidden/Magadha|Magadha]] 
+		- It got settled after [[undefinedhidden/Magadha|Magadha]] conquered the [[undefinedhidden/Licchavi Tribe|Licchavi Tribe]]
+	- Kosala was merged into [[undefinedhidden/Magadha Empire|Magadha Empire]] when Vidudabha was the king of [[Kosala|Kosala]]. 
+- [[Kuru|Kuru]]
+	- Kuru founded the [[Kuru|Kuru]] mahajanapada
+	- Location
+		- Modern [[Thaneshwar|Thaneshwar]], Delhi, Meerut district of [[Uttar Pradesh|Uttar Pradesh]]
+	- Capital was [[Indraprastha|Indraprastha]]
+	- Earlier they were a monarchy - switched to a republican form in 6-5th century BCE
+- [[undefinedhidden/Magadha|Magadha]] 
+	- Capital was [[Pataliputra|Pataliputra]] (present day Patna)
+	- [[Ganga River|Ganga River]] was the border between [[undefinedhidden/Licchavi Tribe|Licchavi Tribe]] and [[undefinedhidden/Magadha Empire|Magadha Empire]], with [[undefinedhidden/Magadha|Magadha]] on the South and [[undefinedhidden/Licchavi Tribe|Licchavi Tribe]] on the north of the river. 
+		- The [[undefinedhidden/Licchavi Tribe|Licchavi Tribe]] was later conquered by [[undefinedhidden/Magadha|Magadha]] 
+	- Other rivers
+		- [[Son River|Son River]], [[Punpun River|Punpun River]], [[Gandak River|Gandak River]], [[Champa River|Champa River]]
+	- Bounded in the south by the [[Vindyas Mountains|Vindyas Mountains]]
+- [[Malla|Malla]]
+	- [[ganasangha|ganasangha]]
+	- Later annexed to [[undefinedhidden/Magadha Empire|Magadha Empire]]
+- [[Matsya|Matsya]] (or Maccha)
+	- Located south of [[Kuru|Kuru]] and west of [[Yamuna River|Yamuna River]] 
+		- Present day parts of [[Rajasthan|Rajasthan]]
+- [[Panchala|Panchala]]
+	- Located east of the [[Kuru|Kuru]] between the mountains and the [[Ganga River|Ganga River]]
+	- corresponded to modern Budaun, Farrukhabad and the adjoining districts of [[Uttar Pradesh|Uttar Pradesh]]
+	- Capitals
+		- Northern Capital: Adhichhatra or Chhatravati
+		- Southern Capital: Kampilya or Kampil
+	- Important Cities
+		- Kanyakubja or [[Kannauj|Kannauj]]
+- [[Surasena|Surasena]]
+	- Located East of [[Matsya|Matsya]] and west of [[Yamuna River|Yamuna River]] 
+	- Brij Region of [[Uttar Pradesh|Uttar Pradesh]], [[Haryana|Haryana]] and [[Rajasthan|Rajasthan]] 
+	- Capital: Madura or [[Mathura|Mathura]]
+	- [[King Avantiputra|King Avantiputra]] was the first among the chief disciples of [[undefinedhidden/Buddha|Buddha]]
+	- Had different clans/sects
+		- Andhakas
+		- Vrishnis
+	- Was later annexed to [[undefinedhidden/Magadha Empire|Magadha Empire]]
+- [[undefinedhidden/Vajji|Vajji]]
+	- Neighboring [[undefinedhidden/Licchavi Tribe|Licchavi Tribe]]
+	- Republican 
+	- [[Mithila|Mithila]] in northern Nepal was their region 
+	- Capital: [[Vaishali|Vaishali]]
+	- It is sometimes called the [[undefinedhidden/Vajji|Vajjika League]] and was led by the [[undefinedhidden/Licchavi Tribe|Licchavi Tribe]]
+- [[Vatsa|Vatsa]] (or Vamsa)
+	- A branch of the [[Kuru|Kuru]]s
+	- [[Allahabad|Allahabad]] in [[Uttar Pradesh|Uttar Pradesh]]
+	- Capital: [[undefinedhidden/Kausambi|Kausambi]]
+	- Neighbors of [[Chedi|Chedi]]s
