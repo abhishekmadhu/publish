@@ -1,6 +1,0 @@
----
-share: "true"
----
-
-
-#life/health
