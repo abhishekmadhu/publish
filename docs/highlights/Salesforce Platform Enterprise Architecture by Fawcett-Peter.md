@@ -4,12 +4,11 @@ kindle-sync:
   title: "Salesforce Platform Enterprise Architecture: A must-read guide to help you architect and deliver packaged applications for enterprise needs, 4th Edition"
   author: Andrew Fawcett and Daniel J. Peter
   asin: B0BD8TBT75
-  lastAnnotatedDate: 2024-05-23
+  lastAnnotatedDate: 2024-06-08
   bookImageUrl: https://m.media-amazon.com/images/I/81rMnAuRZFL._SY160.jpg
-  highlightsCount: 5
+  highlightsCount: 6
 share: "true"
 ---
-
 # Salesforce Platform Enterprise Architecture
 ## Metadata
 * Author: [Andrew Fawcett and Daniel J. Peter](https://www.amazon.comundefined)
@@ -31,5 +30,9 @@ Salesforce CLI will place files representing the objects and corresponding UI la
 
 ---
 There are two types of second-generation packages – managed and unlocked. — location: [704](kindle://book?action=open&asin=B0BD8TBT75&location=704) ^ref-47516
+
+---
+
+Salesforce Metadata Coverage report. This can be found here: https://developer.salesforce.com/docs/metadata-coverage. — location: [747](kindle://book?action=open&asin=B0BD8TBT75&location=747) ^ref-54710
 
 ---
