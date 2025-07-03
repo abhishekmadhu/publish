@@ -1,0 +1,5 @@
+---
+aliases:
+  - Ujjain
+share: "true"
+---
