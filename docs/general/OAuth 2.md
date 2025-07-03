@@ -2,7 +2,7 @@
 share: "true"
 ---
 
-# OAuth 2
+# 1. OAuth 2
 
 Website: [https://oauth.net/2/](https://oauth.net/2/)
 
